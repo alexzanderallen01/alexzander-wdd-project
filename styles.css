@@ -1,0 +1,62 @@
+#content {
+  max-width: 1600px;
+  margin: 0 auto;
+}
+nav a{
+    text-align: center;
+    color: #00798C;
+    text-decoration: none;
+} 
+a {
+  color: #00798C;
+  text-decoration: none;
+  text-align: center;
+}
+nav {
+    color: #00798C;
+    text-align: center;
+    text-decoration: none;
+} 
+li, ul {
+  text-align: center;
+  text-decoration: none;
+}
+main.home-grid{
+  text-align: center;
+  background-color: white;
+  text
+}
+div.button-box{
+  text-align: center;
+}
+h1.home-title {
+  text-align: center;
+  color: #00798C;
+}
+h4.home-title {
+  text-align: center;
+  color: #00798C;
+}
+div.hero-box {
+  text-align: center;
+}
+#background {
+    height: 725px;
+}
+
+body {
+  background-color: #062B72;
+}
+header {
+  
+}
+nav a:hover {
+  color: black;
+  background-color: #00798C;
+}
+h1, h2, h3, h4, h5, h6, p {
+  color: #00798C;
+}
+img.icon {
+    width: 80px;
+} 
